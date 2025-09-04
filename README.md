@@ -7,8 +7,6 @@ This script allows players to lock and unlock their vehicles with smooth animati
 
 🔑 Lock & unlock personal and job vehicles
 
-🚨 Sound & light feedback when locking/unlocking
-
 👮 Job-based access control (via JobCreator)
 
 📜 Configurable keybinds & notifications
