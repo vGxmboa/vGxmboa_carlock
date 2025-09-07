@@ -1,32 +1,24 @@
-🔒 CarLock with JobCreator Integration
+# 🔒 FiveM CarLock Script (JobCreator / ESX / QBCore)
 
-A lightweight and optimized FiveM CarLock system fully integrated with JobCreator.
-This script allows players to lock and unlock their vehicles with smooth animations, notifications, and advanced permissions tied to their job.
+A lightweight and optimized **FiveM Car Lock script for GTA V Roleplay servers**.  
+Fully integrated with **JobCreator**, with optional support for **ESX** and **QBCore**.  
 
-✨ Features
+## ✨ Features
+- 🔑 Lock & unlock **personal and job vehicles**
+- 👮 Job-based access control (**JobCreator** integration)
+- 📜 Configurable keybinds & notifications
+- ⚡ Optimized performance (0.00 ms idle)
+- 🎮 Easy to install & customize
 
-🔑 Lock & unlock personal and job vehicles
+## 🔗 Requirements
+- JobCreator  
+- FiveM Server (latest build)
 
-👮 Job-based access control (via JobCreator)
+## 📦 Installation
+1. Download or clone this repository  
+2. Place it into your `resources` folder  
+3. Add `ensure fivem-carlock` to your `server.cfg`  
+4. Configure settings in `config.lua`
 
-📜 Configurable keybinds & notifications
-
-⚡ Optimized performance (0.00 ms idle)
-
-🎮 Easy to install & customize
-
-🔗 Requirements
-
-JobCreator
-
-FiveM Server (latest build)
-
-📦 Installation
-
-Download or clone this repository.
-
-Place it into your resources folder.
-
-Add ensure vGxmboa_carlock to your server.cfg.
-
-Configure settings in config.lua.
+---
+⭐ If you like this script, don't forget to **star the repo**!
